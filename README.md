@@ -1,5 +1,5 @@
 ### Hi there 👋
-<span style="color:#fff; font-family: 'Georgia'; font-size: 4em;">INSPIRATION DAY</span>
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Master's Study in Machine Learning
