@@ -15,7 +15,7 @@
     - Java, C++/C
 
 ## Publication:
-[Tree-Based Models for Pain Detection from Biomedical Signals](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en)   
+[Tree-Based Models for Pain Detection from Biomedical Signals](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) Springer proceedings, Paris, 2022     
 `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
 
 <h3 align="left">Connect with me:</h3>
