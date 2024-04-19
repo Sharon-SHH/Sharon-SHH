@@ -30,7 +30,7 @@
 <h3 align="left">Operating System:</h3>
 <p align="left"> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" width="40" height="40"/> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-SHH&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-SHH&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,html&theme=dark)
 
 
 <!--
