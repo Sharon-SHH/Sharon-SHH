@@ -13,11 +13,6 @@ I am a Full Stack Developer with 5+ years of expertise in web development and cr
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heng-shi/)
 
-<!-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake.svg">
-<img alt="github-snake" src="https://github.com/Sharon-SHH/Sharon-SHH/output/github-contribution-grid-snake.svg" />
-</picture> -->
 
 <!-- ## 📄 Publication
 [Tree-Based Models for Pain Detection from Biomedical Signals ](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) ([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en))  <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
