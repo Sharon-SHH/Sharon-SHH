@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 I am a Full Stack Developer with 5+ years of expertise in web development and creating RESTful APIs. Proficient in Python, Django, Flask frameworks, and proficiency in data manipulation libraries like Pandas and NumPy.
-- 🎓 Master's Study in Machine Learning
+- 🎓 Master's Study in Machine Learning　([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en)) 
   - **Research Topic:** Pain Detection from Biomedical Signals [Master's thesis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=xbV7Sr4AAAAJ&citation_for_view=xbV7Sr4AAAAJ:u5HHmVD_uO8C)
-  - **Publication**: [Tree-Based Models for Pain Detection from Biomedical Signals ](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) ([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en))  <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
-`Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
+  - **Publication**: [Tree-Based Models for Pain Detection from Biomedical Signals ](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) Springer proceedings, Paris, 2022　　 　
+    - `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
   - Data Mining, Machine Learning, Deep Learning
 - 🎓 Bachelor's Study in Computer Science
     - Data Structures and Algorithms, Operating Systems, Computer Networks, Database Systems, Java, C++/C
