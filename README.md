@@ -14,13 +14,13 @@
     - Database Systems
     - Java, C++/C
 
-## Publication:
+## Publication
 [Tree-Based Models for Pain Detection from Biomedical Signals](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
 `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to Reach Me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/heng-shi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasingunay" height="30" width="40" /></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heng-shi/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
