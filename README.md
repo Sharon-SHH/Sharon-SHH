@@ -14,7 +14,7 @@
 
 
 ## 📄 Publication
-[Tree-Based Models for Pain Detection from Biomedical Signals](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
+[Tree-Based Models for Pain Detection from Biomedical Signals](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) ([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en))  <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
 `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
 
 
