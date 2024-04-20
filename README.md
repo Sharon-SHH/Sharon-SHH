@@ -32,6 +32,9 @@ I am a Full Stack Developer with 5+ years of expertise in web development and cr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon-SHH&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,html&theme=dark)
 
+
+- 😄 Pronouns: Shi, 石, セキ
+- ⚡ Fun fact: English (Fluent), French (Intermediate), Chinese (Native), Japanese (Advanced)
 <!--
 **Sharon-SHH/Sharon-SHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
