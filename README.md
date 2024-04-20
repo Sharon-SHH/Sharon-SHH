@@ -9,6 +9,7 @@ I am a Full Stack Developer with 5+ years of expertise in web development and cr
   - Data Mining, Machine Learning, Deep Learning
 - 🎓 Bachelor's Study in Computer Science
     - Data Structures and Algorithms, Operating Systems, Computer Networks, Database Systems, Java, C++/C
+- 🔭 I’m currently ***looking for*** a **software engineer position** in Canada.
 <h4 align="left">📫 How to Reach Me</h4>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heng-shi/)
@@ -31,6 +32,7 @@ I am a Full Stack Developer with 5+ years of expertise in web development and cr
 <p align="left"> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" width="40" height="40"/> </p>
 
 
+- 🌱 I’m currently learning Spark
 - 😄 Pronouns: Shi, 石, セキ
 - ⚡ Fun fact: English (Fluent), French (Intermediate), Chinese (Native), Japanese (Advanced)
 <!--
