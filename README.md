@@ -1,6 +1,6 @@
 ### Hi, I'm Sharon 👋
 
-## 🚀 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 🚀 About Me
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Master's Study in Machine Learning
   - **Research Topic:** Pain Detection from Biomedical Signals [Master's thesis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=xbV7Sr4AAAAJ&citation_for_view=xbV7Sr4AAAAJ:u5HHmVD_uO8C)
@@ -14,7 +14,7 @@
 
 
 ## 📄 Publication
-[Tree-Based Models for Pain Detection from Biomedical Signals](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) ([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en))  <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
+[Tree-Based Models for Pain Detection from Biomedical Signals ](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) ([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en))  <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
 `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
 
 
