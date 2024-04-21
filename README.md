@@ -1,4 +1,4 @@
-### Hi, I'm Shi 👋  <p align="right"> (SharonSHH - [my another account](github.com/SharonSHH)) </p>
+### Hi, I'm Shi 👋  <p align="right"> (SharonSHH - [my another account](https://github.com/SharonSHH)) </p>
 
 ## 🚀 About Me
 I am a Full Stack Developer with 5+ years of expertise in web development and creating RESTful APIs. Proficient in Python, Django, Flask frameworks, and proficiency in data manipulation libraries like Pandas and NumPy.
