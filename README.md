@@ -19,8 +19,10 @@ I am a Full Stack Developer with 5+ years of expertise in web development and cr
 [Tree-Based Models for Pain Detection from Biomedical Signals ](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) ([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en))  <p style="font-family:Times New Roman">Springer proceedings, Paris, 2022 </p> 
 `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharon-SHH&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SharonSHH&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sharon-SHH)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharon-SHH&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SharonSHH&theme=dark)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharon-SHH&theme=dark&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SharonSHH&theme=dark&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-SHH" alt="Shi" /></p> -->
