@@ -1,7 +1,7 @@
 ### Hi, I'm Shi 👋  <p align="right"> (SharonSHH - [my another account](https://github.com/SharonSHH)) </p>
 
 ## 🚀 About Me
-- Experienced Full Stack Developer with extensive expertise in web development, including proficiency in creating RESTful APIs. Focused on Python for the past 5 years, specializing in frameworks like Django and Flask. Additionally, Proven proficiency in Data Science with 2 years of research and hands-on experience. 
+- Experienced Full Stack Developer with extensive expertise in web development, including proficiency in creating RESTful APIs. Focused on Python for the past few years, specializing in frameworks like Django and Flask. Additionally, Proven proficiency in Data Science with 2 years of research and hands-on experience. 
 - 5 years of experience with SQL in designing database schemas, creating tables and proficient in SQL query across major database systems including MySQL, Postgres, and SQL Server.
 - Having a strong knowledge of the DevOps philosophy, along with rich experience in AWS and Docker.
 - Possess comprehensive knowledge covering the entire software development life cycle (SDLC).
